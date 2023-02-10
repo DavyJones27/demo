@@ -1,0 +1,15 @@
+# front end --> demo 
+    done in react js with the help of redux, react-router, axios, material ui
+    consist of 2 page
+    page 1: 
+        take user detail and qualification detail (this data is saved in backend and redux data store)
+        and navigate to survey page with queryparam as email
+    page 2:
+        this will have multiple question related to happiness index.
+        use redux store to retrive data but on no data it make a backend call for the data.
+
+# back end --> spring-boot-demo
+    global install needed
+        java 18 , golang-migrate (for migration) and docker for postgres
+        use makefile for initialize the requirement.
+         
